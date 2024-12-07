@@ -1,0 +1,3 @@
+[submodule "e-library"]
+	path = e-library
+	url = ./
